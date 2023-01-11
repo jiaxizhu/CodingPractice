@@ -1,0 +1,11 @@
+
+O
+java:S1854."9Remove this useless assignment to local variable "lists".(Ì¿ð¯
+@
+java:S1481."*Remove this unused "lists" local variable.(Ì¿ð¯
+<
+java:S1481/"&Remove this unused "a" local variable.(€Žôá
+D
+java:S5413G")Verify that "remove()" is used correctly.(”×¾ºüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

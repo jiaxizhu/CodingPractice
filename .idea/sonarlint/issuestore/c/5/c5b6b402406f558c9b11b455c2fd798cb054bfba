@@ -1,0 +1,17 @@
+
+W
+java:S18547"<Remove this useless assignment to local variable "factors1".(£ÉõÛıÿÿÿÿ
+Q
+java:S18546";Remove this useless assignment to local variable "factors".(á×Çå
+B
+java:S14816",Remove this unused "factors" local variable.(á×Çå
+H
+java:S14817"-Remove this unused "factors1" local variable.(£ÉõÛıÿÿÿÿ
+A
+java:S14818"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+D
+java:S5413O")Verify that "remove()" is used correctly.(”×¾ºüÿÿÿÿ
+D
+java:S5413k")Verify that "remove()" is used correctly.(”×¾ºüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
